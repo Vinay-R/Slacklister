@@ -2,6 +2,13 @@
 
 Create Spotify playlists from music links shared in your Slack channels. Connect your Slack workspace, pick which channels to watch, and SlackLister will build and maintain a Spotify playlist for each one.
 
+<img width="1290" height="867" alt="image" src="https://github.com/user-attachments/assets/1902285c-d851-4664-a4ff-3a8940da65df" />
+<img width="2580" height="1734" alt="Screenshot 2026-09-29 at 1 05 00 PM" src="https://github.com/user-attachments/assets/3bc6102e-76ce-4406-9785-94d2aaf2df39" />
+<img width="2580" height="1734" alt="Screenshot 2026-09-29 at 1 05 05 PM" src="https://github.com/user-attachments/assets/1f1a2a37-de0f-45dd-aa77-870667186774" />
+<img width="2580" height="1734" alt="Screenshot 2026-09-29 at 1 05 10 PM" src="https://github.com/user-attachments/assets/5c89795f-7842-42d9-8966-ae0111834f8d" />
+<img width="2580" height="1734" alt="Screenshot 2026-09-29 at 1 05 15 PM" src="https://github.com/user-attachments/assets/01e6670d-1c57-458d-8091-6d47b3f3409a" />
+
+
 ## Features
 
 - **Slack OAuth** -- connect any workspace in one click
